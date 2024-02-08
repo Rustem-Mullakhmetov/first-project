@@ -1,3 +1,9 @@
 .first {
     margin: 0;
 }
+
+.font-dog {
+  font-size: 30px ;
+  font-weight: bold ;
+  font-family: 'Arial', sans-serif ;
+}
